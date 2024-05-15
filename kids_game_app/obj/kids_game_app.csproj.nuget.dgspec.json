@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\kids_game_app 2.5\\kids_game_app zzz\\kids_game_app zzz\\kids_game_app\\kids_game_app\\kids_game_app.csproj": {}
+  },
+  "projects": {
+    "D:\\kids_game_app 2.5\\kids_game_app zzz\\kids_game_app zzz\\kids_game_app\\kids_game_app\\kids_game_app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\kids_game_app 2.5\\kids_game_app zzz\\kids_game_app zzz\\kids_game_app\\kids_game_app\\kids_game_app.csproj",
+        "projectName": "kids_game_app",
+        "projectPath": "D:\\kids_game_app 2.5\\kids_game_app zzz\\kids_game_app zzz\\kids_game_app\\kids_game_app\\kids_game_app.csproj",
+        "packagesPath": "C:\\Users\\XPRISTO\\.nuget\\packages\\",
+        "outputPath": "D:\\kids_game_app 2.5\\kids_game_app zzz\\kids_game_app zzz\\kids_game_app\\kids_game_app\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XPRISTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

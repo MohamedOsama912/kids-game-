@@ -1,0 +1,151 @@
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.exe
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.deps.json
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.runtimeconfig.json
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.dll
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.pdb
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.enter_the_game.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_learning_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_quizzes_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.learn_levels_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.log_in.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.motivational_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.Properties.Resources.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.quizzes_levels_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_learning_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_quizzes_form.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.sign_up.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.Form1.resources
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.GenerateResource.cache
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfo.cs
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.dll
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\refint\kids_game_app.dll
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.pdb
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.genruntimeconfig.cache
+C:\Users\Electronica Care\source\repos\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\ref\kids_game_app.dll
+D:\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.exe
+D:\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.deps.json
+D:\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.runtimeconfig.json
+D:\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.dll
+D:\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.pdb
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_learning_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_quizzes_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.learn_levels_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.motivational_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.Properties.Resources.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.quizzes_levels_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_learning_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_quizzes_form.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.GenerateResource.cache
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfoInputs.cache
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfo.cs
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.CoreCompileInputs.cache
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.dll
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\refint\kids_game_app.dll
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.pdb
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.genruntimeconfig.cache
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\ref\kids_game_app.dll
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.welcome_frm.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.sign_up_frm.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.log_in_frm.resources
+D:\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.enter_the_game_frm.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.exe
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.deps.json
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.dll
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.pdb
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.enter_the_game_frm.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_learning_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_quizzes_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.learn_levels_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.log_in_frm.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.motivational_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.Properties.Resources.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.quizzes_levels_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_learning_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_quizzes_form.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.sign_up_frm.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.welcome_frm.resources
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.GenerateResource.cache
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfo.cs
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.dll
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\refint\kids_game_app.dll
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.pdb
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.genruntimeconfig.cache
+C:\Users\Electronica Care\Downloads\Compressed\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\ref\kids_game_app.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.exe
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.deps.json
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.runtimeconfig.json
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.pdb
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.enter_the_game_frm.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.fifth_learning_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.fifth_quizzes_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_learning_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.first_quizzes_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.fourth_learning_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.fourth_quizzes_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.learn_levels_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.log_in_frm.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.motivational_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.Properties.Resources.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.quizzes_levels_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_learning_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.second_quizzes_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.sign_up_frm.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.sixth_learning_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.sixth_quizzes_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.third_learning_form_cs.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.third_quizzes_form.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.welcome_frm.resources
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.GenerateResource.cache
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfoInputs.cache
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.AssemblyInfo.cs
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.CoreCompileInputs.cache
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\refint\kids_game_app.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.pdb
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.genruntimeconfig.cache
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\ref\kids_game_app.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Humanizer.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.AssemblyReference.cache
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\obj\Debug\net6.0-windows\kids_game_app.csproj.CopyComplete
+D:\kids_game_app 2.5\kids_game_app zzz\kids_game_app zzz\kids_game_app\kids_game_app\bin\Debug\net6.0-windows\kids_game_app.dll.config

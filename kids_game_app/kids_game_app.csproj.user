@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="enter the game .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fifth learning form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fifth quizzes form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="first learning form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="first quizzes form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fourth learning form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fourth quizzes form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="learn levels form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="log in .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="motivational form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="quizzes levels form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="second learning form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="second quizzes form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sign up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sixth learning form .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sixth quizzes form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="third learning form cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="third quizzes form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="welcome form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
